@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WiiLife
+- 👀 I’m interested in data science and robotics
+- 🌱 I’m currently learning Data science and AI
+- 💞️ I’m looking to collaborate on start-up projects
+- 📫 How to reach me linked in whatsapp (0774705809)
