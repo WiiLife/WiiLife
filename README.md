@@ -2,5 +2,4 @@
 - 👀 I’m interested in data science, robotics and software dev
 - 🌱 I’m currently learning Data science and AI
 - 💞️ I’m looking to collaborate on start-up projects
-- 📫 How to reach me linked in whatsapp (0774705809)
-- -linkedin: https://www.linkedin.com/in/william-ambrosetti-b15194251/
+- linkedin: https://www.linkedin.com/in/william-ambrosetti-b15194251/
